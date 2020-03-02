@@ -1,0 +1,9 @@
+My associate id:
+844574
+Other team members:
+844556,844507,844554,844583
+Team lead:
+844507
+My role in team:
+1.I have done contact us page with reactive forms
+
